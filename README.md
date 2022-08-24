@@ -1,26 +1,8 @@
-# Welcome to nft-app 👋
-
-![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
-[![Twitter: jellydn](https://img.shields.io/twitter/follow/jellydn.svg?style=social)](https://twitter.com/jellydn)
+# Welcome to nft-app
 
 > How to create your own NFT token
 
 ## 🏠 [Homepage](https://nft-app.productsway.com)
-
-[![Blockchain - DApp 101 - Create your own NFT token](https://img.youtube.com/vi/_veIZBaHkSk/0.jpg)](https://www.youtube.com/watch?v=_veIZBaHkSk)
-
-[![Blockchain - DApp 101 - Mint a NFT token](https://img.youtube.com/vi/UWJJa1hAYlo/0.jpg)](https://www.youtube.com/watch?v=UWJJa1hAYlo)
-
-## ✨ [Demo](https://nft-app-demo.productsway.com)
-
-![https://gyazo.com/fccacc5f480839196343bf95728c9b6a.gif](https://gyazo.com/fccacc5f480839196343bf95728c9b6a.gif)
-
-## Screenshot
-
-![screenshot1.png](./screenshot1.png)
-
-![screenshot2.png](./screenshot2.png)
 
 ## Features
 
@@ -216,25 +198,3 @@ npx hardhat run --network localhost scripts/upgrade_box.js
 ## One click deployment
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/6ZY4MT?referralCode=-GINmA)
-
-## Author
-
-👤 **Dung Huynh**
-
-- Website: https://productsway.com/
-- Twitter: [@jellydn](https://twitter.com/jellydn)
-- Github: [@jellydn](https://github.com/jellydn)
-
-## Stargazers 🌟
-
-[![Stargazers repo roster for jellydn/nft-app](https://reporoster.com/stars/jellydn/nft-app)](https://github.com/jellydn/nft-app/stargazers)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q61Q7YM)
-
----
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_

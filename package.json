@@ -15,6 +15,7 @@
     "package.json": "sort-package-json"
   },
   "dependencies": {
+    "@chainlink/contracts": "^0.4.2",
     "@hookform/devtools": "4.2.2",
     "@sentry/react": "7.9.0",
     "@sentry/tracing": "7.9.0",
